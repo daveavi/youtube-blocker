@@ -1,0 +1,6 @@
+{
+ "name": "Youtube Focus",
+ "version": "0.0.1",
+ "manifest_version": 2,
+ "description": "A browser extension that hides  recommendations on the YouTube home page."
+}
